@@ -1,0 +1,15 @@
+body{
+    background-color: whitesmoke;
+}
+ul{
+    list-style-type: none;
+}
+.container h1{
+    background-color: red;
+}
+h1{
+    color: white;
+}
+ul li{
+    display: inline;
+}
